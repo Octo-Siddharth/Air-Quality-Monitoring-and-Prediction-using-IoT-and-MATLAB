@@ -10,8 +10,8 @@ HELPFUL FEATURES: • AQI (AIR QUALITY INDEX) will be predicted based on past 2 
 CONSTRAINTS: • A Huge amount of training dataset is required for machine learning training purpose for the model to work with precise accuracy.
 
 # SOFTWARE USED 
-Arduino IDE</br> 
-MATLAB</br>
-Python</br>
-Google Sheets</br>
-Google Script</br>
+* Arduino IDE</br> 
+* MATLAB</br>
+* Python</br>
+* Google Sheets</br>
+* Google Script</br>
