@@ -8,3 +8,10 @@ FEATURES: • Mesh Networking, i.e., 3 Node MCUs will be connected together in f
 HELPFUL FEATURES: • AQI (AIR QUALITY INDEX) will be predicted based on past 2 weeks data. • To get complete product we will host a web site which will shows the predicted data (Air quality index in this case). • Air Quality will be monitored with the help of the prototype and thus with the prediction we can help to curb the excessive use of harmful gases in our environment. • The data stored in the server will further provide a data based on the air quality of the surrounding and help in monitoring.
 
 CONSTRAINTS: • A Huge amount of training dataset is required for machine learning training purpose for the model to work with precise accuracy.
+
+# SOFTWARE USED 
+Arduino IDE 
+MATLAB
+Python
+Google Sheets
+Google Script
