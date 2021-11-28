@@ -15,6 +15,9 @@
 * Python</br>
 * Google Sheets</br>
 * Google Script</br>
+* Visual Studio Code</br>
+* HTML
+* CSS
 
 # PROJECT VIDEO
 
