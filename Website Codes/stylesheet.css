@@ -1,0 +1,21 @@
+h2{
+text-align:center;
+color:white;
+background-color:rgba(0, 0, 0, 0.5);
+font-size: xxx-large;
+}
+h3{
+text-align:center;
+color:white;
+background-color:rgba(0, 0, 0, 0.473);
+font-size:x-large;
+}
+body{
+    background-image: url("Image.jpg");
+    background-size: 1350px 1300px; 
+    }
+div.parent , iframe{
+    background: transparent;
+    justify-content: center;
+}
+
